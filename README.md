@@ -1,2 +1,2 @@
 # Quiz-Application
-I made a Quiz application using Java for Backend, and we use java swing and AWT for frontend of this application.
+It is a Java quiz game application and here Players can answer multiple-choice questions on various topics and receive scores based on their performance.
